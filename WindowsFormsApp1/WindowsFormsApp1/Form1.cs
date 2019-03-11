@@ -24,8 +24,11 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            //master
             button2.Text = "branch";
             // branch button2 
+
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
