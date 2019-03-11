@@ -19,7 +19,17 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.Text = "branch";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Text = "hello";
         }
     }
 }
